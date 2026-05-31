@@ -1,9 +1,12 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+from PIL import Image
 
 # Konfigurasi halaman dashboard
-st.set_page_config(page_title="BurnAway Dashboard", page_icon="🔥", layout="wide")
+favicon = Image.open("image/logo.png")
+
+st.set_page_config(page_title="BurnAway Dashboard", page_icon=favicon, layout="wide")
 
 
 # load Data
@@ -52,7 +55,7 @@ df_clean = load_data()
 
 # Sidebar setup
 with st.sidebar:
-    st.image("https://cdn-icons-png.flaticon.com/512/426/426833.png", width=150)
+    st.image("image/logo.png", width=200)
     st.title("BurnAway Data")
 
     # Filter interaktif untuk rentang pengalaman
@@ -90,7 +93,7 @@ main_df = df_clean[
 ]
 
 # Header dan metrik
-st.title("Dashboard Analisis Developer Burnout 🔥")
+st.title("Dashboard Analisis Developer Burnout")
 st.markdown(
     "Menampilkan insight dan visualisasi interaktif terkait faktor penyebab burnout."
 )
