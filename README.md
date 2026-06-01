@@ -37,19 +37,18 @@ Dataset yang digunakan dalam proyek ini bersumber dari [Kaggle: Developer Burnou
 
 ## ⚙️ **Petunjuk Pengaturan**
 
-### **1. Prasyarat**
+1. **Prasyarat**
+   - Python 3.11 atau lebih baru.
+   - Git terinstal di komputer.
 
-- Python 3.11 atau lebih baru.
-- Git terinstal di komputer.
-
-### **2. Clone Repositori**
+2. **Clone Repositori**
 
 ```bash
 git clone https://github.com/Fikri-Rouzan/burnaway-capstone-data-science
 cd burnaway-capstone-data-science
 ```
 
-### **3. Buat Virtual Environment**
+3. **Buat Virtual Environment**
 
 ```bash
 # Windows
@@ -61,13 +60,13 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-### **4. Install Dependensi**
+4. **Install Dependensi**
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### **5. Menjalankan Dashboard Streamlit**
+5. **Menjalankan Dashboard Streamlit**
 
 ```bash
 streamlit run dashboard/dashboard.py
