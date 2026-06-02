@@ -31,6 +31,7 @@ Dataset yang digunakan dalam proyek ini bersumber dari [Kaggle: Developer Burnou
 - 🌱 **Environment:** Jupyter Notebook.
 - 🧩 **Framework:** Streamlit.
 - ⚛️ **Libraries:** pandas, Matplotlib, seaborn, scikit-learn, statsmodels, Plotly, dan Pillow.
+- ⚡ **Tool:** Google Colab.
 - 🚀 **Deployment:** Streamlit Community Cloud.
 
 ---
