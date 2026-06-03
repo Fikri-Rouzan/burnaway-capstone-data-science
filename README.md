@@ -1,4 +1,4 @@
-# BurnAway - Capstone Data Science
+# BurnAway Capstone Data Science
 
 ## 👥 Tim CC26-PSU237
 
