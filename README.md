@@ -13,7 +13,7 @@
 
 ---
 
-## 📌 Deskripsi Proyek
+## 📌 Deskripsi
 
 Burnout secara resmi diakui oleh WHO (ICD-11) sebagai fenomena pekerjaan yang sangat mengancam kesejahteraan psikologis, di mana 83% software developer dilaporkan mengalaminya akibat beban logika yang rumit, pesatnya perkembangan teknologi, serta isolasi kerja (Haystack, 2021). Sebagai langkah strategis untuk mencegah penurunan performa dan menjaga kualitas perangkat lunak, proyek BurnAway Data Science ini mengembangkan sebuah dashboard analitik interaktif. Dashboard ini dirancang khusus untuk memetakan dan menganalisis faktor-faktor pemicu stres pada developer, sehingga dapat memberikan wawasan berbasis data untuk menjaga kesehatan mental dan memaksimalkan ruang inovasi.
 
