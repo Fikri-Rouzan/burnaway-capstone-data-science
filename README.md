@@ -15,13 +15,13 @@
 
 ## 📌 Deskripsi
 
-Burnout secara resmi diakui oleh WHO (ICD-11) sebagai fenomena pekerjaan yang sangat mengancam kesejahteraan psikologis, di mana 83% software developer dilaporkan mengalaminya akibat beban logika yang rumit, pesatnya perkembangan teknologi, serta isolasi kerja (Haystack, 2021). Sebagai langkah strategis untuk mencegah penurunan performa dan menjaga kualitas perangkat lunak, proyek BurnAway Data Science ini mengembangkan sebuah dashboard analitik interaktif. Dashboard ini dirancang khusus untuk memetakan dan menganalisis faktor-faktor pemicu stres pada developer, sehingga dapat memberikan wawasan berbasis data untuk menjaga kesehatan mental dan memaksimalkan ruang inovasi.
+Burnout diakui secara resmi oleh WHO (ICD-11) sebagai fenomena pekerjaan yang memengaruhi kesejahteraan psikologis, di mana 83% software developer dilaporkan mengalaminya akibat faktor beban kerja, pesatnya perkembangan teknologi, serta isolasi kerja (Haystack, 2021). Untuk meminimalkan penurunan performa dan menjaga kualitas perangkat lunak, proyek BurnAway mengembangkan sebuah dashboard analitik interaktif. Dashboard ini dirancang untuk memetakan dan menganalisis faktor pemicu stres pada developer, sehingga dapat memberikan wawasan berbasis data untuk menjaga kesehatan mental serta mendukung produktivitas kerja.
 
 ---
 
 ## 💾 Dataset
 
-Dataset yang digunakan dalam proyek ini bersumber dari [Kaggle: Developer Burnout Prediction Dataset](https://www.kaggle.com/datasets/asifxzaman/developer-burnout-prediction-dataset7000-samples). Dataset ini menyajikan gambaran mendalam mengenai faktor fisik dan perilaku kerja yang memengaruhi tingkat burnout pada developer. Di dalamnya mencakup 7.000 sampel data aktivitas harian, yang memuat berbagai atribut seperti metrik beban kerja, pola istirahat, serta indikator produktivitas.
+Dataset yang digunakan dalam proyek ini bersumber dari [Kaggle: Developer Burnout Prediction Dataset](https://www.kaggle.com/datasets/asifxzaman/developer-burnout-prediction-dataset7000-samples). Dataset ini menyajikan informasi mengenai faktor fisik dan perilaku kerja yang memengaruhi tingkat burnout pada developer. Di dalamnya mencakup 7.000 sampel data aktivitas harian yang memuat berbagai atribut seperti metrik beban kerja, pola istirahat, serta indikator produktivitas.
 
 ---
 
