@@ -1,4 +1,4 @@
-# BurnAway Capstone Data Science
+# BurnAway
 
 ## 👥 Tim CC26-PSU237
 
@@ -47,8 +47,8 @@ Dataset yang digunakan dalam proyek ini bersumber dari [Kaggle: Developer Burnou
 2. **Clone Repositori**
 
 ```bash
-git clone https://github.com/Fikri-Rouzan/burnaway-capstone-data-science.git
-cd burnaway-capstone-data-science
+git clone https://github.com/Fikri-Rouzan/burnaway.git
+cd burnaway
 ```
 
 3. **Buat Virtual Environment**
